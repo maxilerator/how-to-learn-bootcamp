@@ -314,7 +314,7 @@ header {
   padding-top: 80px;
 }
 
-.table__heading-text {
+.table__heading_theme_dark-text {
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
